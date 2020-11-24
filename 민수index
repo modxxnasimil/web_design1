@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+ <head>   
+    <meta charset="utf-8">
+     <link rel="icon" href="image/icon1.png">
+     <title>Kenshi Yonezu</title>
+     <link href="week_10.css" rel="stylesheet" type="text/css">
+ </head>
+ <body>
+     <header>
+         <a href="index.html"><img id="icon" src="image/headimage.png"></a>
+     <nav>    
+         <ul class="list">
+         <li><a href="about.html">ABOUT </a></li>  
+         <li><a href="album.html">ALBUM</a></li>
+         <li><a href="stage.html">STAGE</a></li>
+        </ul>
+     </nav>
+     </header>
+     <br><br><br><br><br><br><br><br><br><br>
+     <section>
+         <center>
+         <table>
+         <tr>
+             <td><img src="photo/main_image.jpg" width="500" height="720" alt="메인이미지" title="메인이미지"></td>
+             <td><left>
+                 <h1>요네즈 켄시<br>Kenshi Yonezu</h1><br>
+                 <p class="mainstory">
+                   인디 레이블 매직스트로베리사운드 소속 싱어송라이터.
+                     2018년 5월, 싱글 앨범 《생일 노래》로 데뷔했으며, 같은 해 8월에 《섬》, 11월에 《괜히》를 내놓으며 활발하게 음악 창작 활동을 진행하였다. 민수의 음악에 대한 열정은 2019년에도 계속되어, 2월에 매직스트로베리사운드에 합류하였으며, 한 달 후 싱글 앨범 《민수는 혼란스럽다》가 발매되었다. 2019년 5월에는 이니스프리와의 콜라보레이션으로 캠페인송 《I Like Me》를 만들기도 하였다. 2016년 제27회 유재하음악경연대회에서 동상을 수상한 경력이 있다.<br>뛰어난 작사작곡 능력은 물론 적절한 유튜브 및 SNS 활용
+                    을 통해<br>메이저
+                    데뷔 이후 꾸준히 히트곡을 내고 상승세를 그리며 성장해왔으며,<br> Lemon의 대히트로 국민가수 반열에 오른 2018
+                    년 이후에도
+                    <br> 계속해서 그 인기를 유지하고 있다.<br><br><br><br><br></p>
+                 <p class="call">
+                    Mail : <a href="mailto:1932604@donga.ac.kr">1932604@donga.ac.kr</a><br>
+                    Tel : <a href="tel:010-1234-4567">010-1234-4567</a><br></p>
+             </left></td> 
+         </tr>
+         </table>
+         </center>
+     </section>
+ </body>
+    <footer>
+    <p><center>copyright &copy; 2020 Web Design by youngrim</center></p>
+   </footer>
+</html>
